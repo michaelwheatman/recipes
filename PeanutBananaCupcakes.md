@@ -1,3 +1,8 @@
+---
+title: Peanut Banana Cupcakes
+layout: default
+---
+
 # Peanut & Banana Cupcakes
 
 ### TOTAL TIME: 1 Hour
