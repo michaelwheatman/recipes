@@ -12,7 +12,7 @@ layout: default
 
 **Makes: 18 servings**
 
-![alt text](http://www.nolamommy.com/wp-content/uploads/2011/07/plaincupcake.jpg Generic Picture of White Cake Cupcakes)
+![alt text](https://s-media-cache-ak0.pinimg.com/736x/4b/34/3c/4b343c8dfe026e4ba82d6a3600e77224.jpg "Generic Picture of White Cake Cupcakes")
 
 ## Ingredients
 
