@@ -48,17 +48,16 @@ Preheat Oven to 350°
 	In medium bowl, Combine the flour, baking powder, baking soda and salt
 	
 	Combine Wets and Drys.
-	Stir in peanuts.
+	Stir in half of the peanuts.
 	
-    Fill paper-lined muffin cups two-thirds full.
+    Fill paper-lined muffin cups two-thirds full. Sprinkle on remaining peanuts.
 	Bake at 350° for 18-22 minutes or until a toothpick inserted near the center comes out clean. 
 	Cool for 10 minutes before removing from pans to wire racks to cool completely.
 	
 #### FROSTING
     In a large bowl, beat the confectioners' sugar, peanut butter and butter until fluffy.
 	Beat in vanilla and enough milk to achieve desired consistency.
-	Pipe frosting over cupcakes.
-	Sprinkle with peanuts.
+	Spread frosting over cupcakes.
 	Store in the refrigerator.
 	
 
