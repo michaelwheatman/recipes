@@ -13,7 +13,7 @@ While travelling in Wales 30 years ago, one of my processors was served these sc
 
 **Makes: 12 servings**
 
-![alt text](https://a.dilcdn.com/bl/wp-content/uploads/sites/8/2011/04/Hot-crossed-scones-2.jpgg "Generic Picture of drop scones")
+![alt text](https://a.dilcdn.com/bl/wp-content/uploads/sites/8/2011/04/Hot-crossed-scones-2.jpg "Generic Picture of drop scones")
 
 ## Ingredients
 
