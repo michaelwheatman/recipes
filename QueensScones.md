@@ -33,19 +33,19 @@ While travelling in Wales 30 years ago, one of my processors was served these sc
 ## Directions
 Preheat Oven to 400°
 
-#### Scones
-  Mix first 4 ingredients together in a large bowl.
-  With hands, mix in butter until mixture resembles coarse corn meal.
-  Add fruit and mix until fruit is coated.
-  Mix whipping cream and eggs together in a small bowl with whisk just until combined.
-  Add cream and egg mixture to flour mixture and stir just until combined.
-  Place mixture on floured surface and pat into a mass about 1/2inch thick.
-  Cut out scones with  biscuit cutter  of desired diameter. I use one that is about 1 1/2” across. 
-  Place on floured insulated baking sheet.
-  Bake 10 minutes at 400degrees ; then lower temperature to 350 degrees and bake about 5-8 minutes more until scones are light brown and done. ( Time will vary depending on size of scones and oven. Do not overbake.
-  Remove from baking sheet and cool on wire rack.
-  
-  Serve with butter and low-sugar raspberry jam (and Devonshire clotted cream if desired)
+#### Baking
+    Mix first 4 ingredients together in a large bowl.
+    With hands, mix in butter until mixture resembles coarse corn meal.
+    Add fruit and mix until fruit is coated.
+    Mix whipping cream and eggs together in a small bowl with whisk just until combined.
+    Add cream and egg mixture to flour mixture and stir just until combined.
+    Place mixture on floured surface and pat into a mass about 1/2inch thick.
+    Cut out scones with  biscuit cutter  of desired diameter. I use one that is about 1 1/2” across. 
+    Place on floured insulated baking sheet.
+    Bake 10 minutes at 400degrees ; then lower temperature to 350 degrees and bake about 5-8 minutes more until scones are light brown and done. ( Time will vary depending on size of scones and oven. Do not overbake.
+    Remove from baking sheet and cool on wire rack.
+#### Serving  
+    Serve with butter and low-sugar raspberry jam (and Devonshire clotted cream if desired)
 
 ## Source:
 [Martha Paas]
