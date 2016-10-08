@@ -9,7 +9,7 @@ While travelling in Wales 30 years ago, one of my processors was served these sc
 ### TOTAL TIME: 30 Minutes
 **Prep: 15 min**
 
-**Bake: 15 min. + cooling**
+**Bake: 15 min + cooling**
 
 **Makes: 12 servings**
 
