@@ -48,5 +48,4 @@ Preheat Oven to 400°
     Serve with butter and low-sugar raspberry jam (and Devonshire clotted cream if desired)
 
 ## Source:
-[Martha Paas]
 [Michael Wheatman](michaelwheatman.com)  
