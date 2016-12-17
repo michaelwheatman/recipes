@@ -1,3 +1,10 @@
+---
+title: Rum Balls
+layout: default
+---
+
+# Rum Balls
+
 ## Ingredients
     16 oz. 	Package semi-sweet chocolate chips
     ½ cup 	sugar
