@@ -23,7 +23,8 @@ Heavily revised. Can be made and chilled the day before - if so, add an extra 1/
 ### Directions
     With electric mixer, cream eggs and sugar. 
     Stir in remaining ingredients til well mixed - adding the noodles last.
-    Pour into a 13” x 9” baking pan, cover pan with aluminum foil, and chill for at least an hour. 
+    Pour into a 13” x 9” baking pan, cover pan with aluminum foil, and chill for at least an hour.
+    
     Preheat Oven to 365°
     Bake covered at 365° for 1 hr. remove foil cover and bake additional 15 min. until the top is light brown. 
 
