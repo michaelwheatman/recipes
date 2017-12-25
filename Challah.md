@@ -14,7 +14,7 @@ layout: default
 
 ![Picture of Challah](http://daytonjewishobserver.org/wp-content/uploads/2016/07/challah.jpg "Challah")
 
-##INGREDIENTS:
+## INGREDIENTS:
 
 1 packet active dry yeast
 
@@ -36,7 +36,7 @@ Egg yolk & water for glaze
 
 Sesame or poppy seeds
 
-##DIRECTIONS:
+## DIRECTIONS:
 1. Soften yeast in warm water following directions on packet (Generally add 1 tsp sugar and 1/4 cup warm water)
 
 2. Combine butter with eggs and add to yeast in a large bowl.
