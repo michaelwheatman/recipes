@@ -8,7 +8,7 @@ layout: default
 ### TOTAL TIME: 3 Hour
 **Prep: 30 min**
 
-**Cook: 2 and a Half Hour **
+**Cook: 2 and a Half Hour**
 
 **Makes: 10 servings**
 
