@@ -44,7 +44,7 @@ layout: default
   10. Remove from heat and top with a layer of cheddar cheese
   11. Finish with a thick layer of mashed potatoes and sprinkle Parmesan and leftover chives to finish
   12. Bake at 400 degrees F for 20 minutes or until the potatoes are browned
-  13. Broil at 400 degrees F for 3-5 minutes if needed to brown them more
+  13. Broil on High F for 3-5 minutes if needed to brown them more
   Allow to cool 10 minutes before serving warm
 	
 ## Source:
