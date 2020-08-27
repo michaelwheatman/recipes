@@ -1,14 +1,8 @@
----
-title: Chicken and Sausage Gumbo
-layout: default
----
-
 # Chicken and Sausage Gumbo
-
 Serves 6-8
 
 ### Ingredients:
-    1 cup roux
+    1 cup roux Either from mix or from scratch (0.75 cups fat, 1 cup flour)
     2 to 2.5 quarts water
     2 cups chopped onion
     2 Tbsp bell pepper (finely chopped)
@@ -33,7 +27,7 @@ Serves 6-8
     File
 
 ### Directions
-    1) Make roux as instructed (either from mix or from scratch).
+    1) Make roux as instructed.
 
     2) Mix roux, water, and all the vegtables and spices (except the cayenne pepper) and bring to medium heat.
 
