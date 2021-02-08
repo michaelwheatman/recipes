@@ -8,7 +8,7 @@ layout: default
 ### TOTAL ACTIVE TIME: 10 Minutes
 **Prep: 10 min**
 
-**Makes: 12 servings**
+**Makes: 3 cups**
 
 ## INGREDIENTS:
 
