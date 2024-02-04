@@ -1,8 +1,6 @@
 # Leek Fritters
 Serves 4
 
-Don't be put off by the long list of ingredients. You are likely to find many of them in your kitchen cupboard. You also don't have to make the sauce. A squirt of lemon or lime juice will suffice.
-
 ### Ingredients:
 **Sauce**
 * 1/2 cup Greek yogurt
@@ -34,13 +32,13 @@ Don't be put off by the long list of ingredients. You are likely to find many of
 * 4 1/2 tbsp unsalted butter, melted
 
 ### Directions
-1) To make the sauce. Blitz all the ingredients together in a food processor until a uniform green. Set aside for later.
+1) To make the sauce. Blend all the sauce ingredients together in a food processor until a uniform green. Set aside.
 
-2) Cut the leeks into scant 1 inch-thick slices rinse and drain dry. Sauté the leeks and shallots in a pan with half the oil on medium heat for about 15 minutes, or until soft. Transfer to a large bowl and add the chile, parsley, spices, sugar, and salt. Allow to cool down.
+2) Cut the leeks into 1 inch-thick slices rinse and drain dry. Sauté the leeks and shallots in a pan with half the oil on medium heat until soft, about 15 minutes. Transfer to a large bowl and add the chile, parsley, spices, sugar, and salt. Allow to cool down.
 
-3) Whisk the egg white to soft peaks and fold it into the vegetables. In another bowl, mix together the flour, baking powder, whole eg, milk, and butter to form a batter. Gently mix it into the egg white and vegetable mixture.
+3) Whisk the egg white to soft peaks and fold it into the vegetables. In another bowl, mix together the flour, baking powder, whole egg, milk, and butter to form a batter. Gently mix it into the egg white and vegetable mixture.
 
-4) Put 2 tablespoons of the remaining oil in a large frying pan and place over a medium heat. Spoon about half of the vegetable mixture into the pan to make four large fritters. Fry them for 2 to 3 minutes on each side, or until golden and crisp. Remove to paper towels and keep warm. Continue making the fritters, adding more oil as needed. You should end up with about eight large fritters. Serve warm, with the sauce on the side or drizzled over.
+4) Put 2 tablespoons of the remaining oil in a large frying pan over medium heat. Spoon about half of the vegetable mixture into the pan to make four large fritters. Fry for 2 to 3 minutes on each side, or until golden and crisp. Remove and place on a plate with paper towels to soak up excess oil and keep warm. Continue making the fritters, adding more oil as needed. You should end up with about eight large fritters. Serve warm or cool with sauce on the side or drizzled over. If opting to not make the sauce, drizzle with lemon or lime juice.
 
 ## Source:
 Plenty: Vibrant Vegetable Recipes from London's Ottolenghi
