@@ -4,7 +4,7 @@ layout: default
 ---
 
 # The Queen’s Scones
-While travelling in Wales 30 years ago, one of my processors was served these scones. Unlike most scones, these are not hard or dry but instead melt in your mouth.  The woman told her that they were made by the Queen’s recipe. Apparently her sister works in the Palace! These are so popular with students that she always serves them on the last day of class.
+While travelling in Wales 30 years ago, one of my professors was served these scones. Unlike most scones, these are not hard or dry but instead melt in your mouth.  The woman told her that they were made by the Queen’s recipe. Apparently her sister works in the Palace! These are so popular with students that she always serves them on the last day of class.
 
 ### TOTAL TIME: 30 Minutes
 **Prep: 15 min**
