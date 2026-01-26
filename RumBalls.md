@@ -27,5 +27,7 @@ layout: default
 
     Cover with foil and let age/mellow
 
+    Re-toss with additional powdered sugar prior to serving.
+
     Note: This should be made at least one week before serving and will keep at least a month 
     (if they last that long.)
