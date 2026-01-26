@@ -9,8 +9,8 @@ layout: default
     16 oz. 	Package semi-sweet chocolate chips
     ½ cup 	sugar
     3 Tbs. 	Light corn syrup
-    ½ cup 	Bourbon (or rum)
-    1 cup	Finely chopped (or grund) walnuts
+    ½ cup 	Rum (or Bourbon)
+    1 cup	Finely chopped (or ground) walnuts
     2 ½ cups Vanilla wafers – crushed fine
     Powdered sugar
 
@@ -25,7 +25,7 @@ layout: default
     Roll into 1” balls.
     Roll in powdered sugar.
 
-    Cover with foil and “ripen.”
+    Cover with foil and let age/mellow
 
     Note: This should be made at least one week before serving and will keep at least a month 
     (if they last that long.)
